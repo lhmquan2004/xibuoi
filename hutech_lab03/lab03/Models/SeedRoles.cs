@@ -1,8 +1,9 @@
 ﻿using Microsoft.AspNetCore.Identity;
 using System;
 using System.Threading.Tasks;
+using lab03.Models;
 
-namespace YourProjectNamespace.Models
+namespace lab03.Models
 {
     public static class SeedRoles
     {
