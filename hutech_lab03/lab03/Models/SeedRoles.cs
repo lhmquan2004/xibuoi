@@ -9,7 +9,7 @@ namespace YourProjectNamespace.Models
         public static async Task InitializeAsync(IServiceProvider serviceProvider)
         {
             var roleManager = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
-            string[] roles = { "Admin", "User" };
+            string[] roles = { SD.Role_Admin, "User" };
 
             foreach (var role in roles)
             {

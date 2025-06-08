@@ -1,28 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lquan\\Downloads\\hutech_lab03 moi\\hutech_lab03\\lab03\\lab03.csproj": {}
+    "/Users/nguyenngochoa/Git/xibuoi/hutech_lab03/lab03/lab03.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lquan\\Downloads\\hutech_lab03 moi\\hutech_lab03\\lab03\\lab03.csproj": {
+    "/Users/nguyenngochoa/Git/xibuoi/hutech_lab03/lab03/lab03.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lquan\\Downloads\\hutech_lab03 moi\\hutech_lab03\\lab03\\lab03.csproj",
+        "projectUniqueName": "/Users/nguyenngochoa/Git/xibuoi/hutech_lab03/lab03/lab03.csproj",
         "projectName": "lab03",
-        "projectPath": "C:\\Users\\lquan\\Downloads\\hutech_lab03 moi\\hutech_lab03\\lab03\\lab03.csproj",
-        "packagesPath": "C:\\Users\\lquan\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lquan\\Downloads\\hutech_lab03 moi\\hutech_lab03\\lab03\\obj\\",
+        "projectPath": "/Users/nguyenngochoa/Git/xibuoi/hutech_lab03/lab03/lab03.csproj",
+        "packagesPath": "/Users/nguyenngochoa/.nuget/packages/",
+        "outputPath": "/Users/nguyenngochoa/Git/xibuoi/hutech_lab03/lab03/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\lquan\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/nguyenngochoa/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -104,7 +101,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.404/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
